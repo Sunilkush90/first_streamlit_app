@@ -1,10 +1,10 @@
 import streamlit
 streamlit.title('My Parents New Healthy Diner')
 
-streamlit.title('Breakfast Menu')
+streamlit.header('Breakfast Menu')
 
-streamlit.title('Dosa  50')
-streamlit.title('Idli' 60')
-streamlit.title('Wada' 70')
+streamlit.text('Dosa   : 50')
+streamlit.text('Idli   : 60')
+streamlit.text('Wada   : 70')
 
 
