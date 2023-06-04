@@ -3,8 +3,8 @@ streamlit.title('My Parents New Healthy Diner')
 
 streamlit.title('Breakfast Menu')
 
-'Dosa'    :  50
-'Idl'     :  40
-'Uttapam' :  60
+streamlit.title('Dosa' :  50)
+streamlit.title('Idli' :  50)
+streamlit.title('Wada' :  50)
 
 
